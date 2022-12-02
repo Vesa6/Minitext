@@ -1,0 +1,2 @@
+minitext: minitext.c
+	$(CC) minitext.c - o minitext -Wall -Wextra -pedantic -std=c99
